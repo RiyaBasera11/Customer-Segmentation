@@ -25,6 +25,8 @@ This project focuses on segmenting customers based on their behavior and purchas
 ## 🚀 Conclusion
 Customer segmentation helps businesses understand their customers better and make data-driven decisions for growth.
 
+---
+
 ## 🔗 Author
 Riya Basera  
 Aspiring Data Analyst
